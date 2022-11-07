@@ -3,7 +3,7 @@
 I'm a QA engineer from India, who is passionate about software testing and ecommerce platforms.
 
 🔭 I’m currently working on Automation testing such as:
-- UI automation using Selenium WebDriver, WebdriverIO and odeceptjs-playwright.
+- UI automation using Selenium WebDriver, WebdriverIO and Codeceptjs-playwright.
 - API automation using Rest-Assured, SuperTest, REST helper using codeceptjs.
 - Performance Testing(JMETER)/k6/artillery, and Manual Testing.
 
