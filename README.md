@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=VinuthaRavindranath&show_icons=true&locale=en&theme=tokyonight" alt="VinuthaRavindranath" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=VinuthaRavindranath&show_icons=true&theme=dark#gh-dark-mode-only" alt="VinuthaRavindranath" /></p>
 
