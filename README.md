@@ -7,8 +7,6 @@ I'm a QA engineer from India, who is passionate about software testing and ecomm
 - API automation using Rest-Assured, SuperTest, REST helper using codeceptjs.
 - Performance Testing(JMETER)/k6/artillery, and Manual Testing.
 
-<p>&nbsp;<img align="left" src="https://gpvc.arturio.dev/VinuthaRavindranath" /></p>
-
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/vinutha-ravindra-57a1505a">LinkedIn</a> 
