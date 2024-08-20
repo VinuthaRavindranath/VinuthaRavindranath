@@ -3,9 +3,9 @@
 I'm a QA engineer from India, who is passionate about software testing and ecommerce platforms.
 
 🔭 I’m currently working on Automation testing such as:
-- UI automation using Selenium WebDriver, WebdriverIO and Codeceptjs-playwright.
-- API automation using Rest-Assured, SuperTest, REST helper using codeceptjs.
-- Performance Testing(JMETER)/k6/artillery, and Manual Testing.
+- UI automation using Selenium WebDriver and frameworks such as pytest, robot framework.
+- API automation using Requests with pytest framework.
+- Performance Testing JMETER, and Manual Testing.
 
 ### Connect with me:
 
@@ -15,7 +15,7 @@ I'm a QA engineer from India, who is passionate about software testing and ecomm
 
 [![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)](https://github.com/qastacker?tab=repositories&q=&type=&language=java)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=black)](https://github.com/qastacker?tab=repositories&q=&type=&language=javascript)
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <!--
 **VinuthaRavindranath/VinuthaRavindranath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I'm a QA engineer from India, who is passionate about software testing and ecommerce platforms.
