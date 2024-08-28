@@ -5,7 +5,7 @@ I'm a QA engineer from India, who is passionate about software testing and ecomm
 🔭 I’m currently working on Automation testing such as:
 - UI automation using Selenium WebDriver and frameworks such as pytest, robot framework.
 - API automation using Requests with pytest framework.
-- Performance Testing JMETER, and Manual Testing.
+- Performance Testing LOCUST , and Manual Testing.
 
 ### Connect with me:
 
